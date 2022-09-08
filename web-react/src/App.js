@@ -176,7 +176,7 @@ export default function App() {
               noWrap
               className={classes.title}
             >
-              Welcome To Wilson's GRANDstack App 
+              Welcome To Wilson GRANDstack App
             </Typography>
           </Toolbar>
         </AppBar>
