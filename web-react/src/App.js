@@ -176,7 +176,7 @@ export default function App() {
               noWrap
               className={classes.title}
             >
-              Wilson GRANDstack App
+              Wilson GRANDstack App - Based on Aura DB
             </Typography>
           </Toolbar>
         </AppBar>
